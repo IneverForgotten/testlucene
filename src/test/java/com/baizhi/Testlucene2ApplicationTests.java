@@ -25,6 +25,7 @@ public class Testlucene2ApplicationTests {
             System.out.println(shopping);
         }
         System.out.println("testgithub");
+        System.out.println("testgithub");
     }
 
 }
